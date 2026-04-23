@@ -23,11 +23,12 @@ Este repositório contém o projeto de **Reformulação Visual e Otimização** 
 
 ## ⚠️ Justificativa Técnica e Adaptações de Ambiente
 
-Este projeto reflete um processo de **resiliência e escolha estratégica**:
+Este projeto reflete um processo de **resiliência e superação de barreiras técnicas**:
 
-* **Hardware e Performance**: Desenvolvido em máquina com hardware limitado. Para garantir que o relatório não travasse e permanecesse funcional, utilizei apenas recursos nativos de formatação, evitando o uso de imagens de fundo (backgrounds) externas pesadas.
-* **Design Nativo vs. Pop-ups**: Optei por **não utilizar o layout de capa/formas externas** sugerido no modelo original da instrutora. Notei que o uso de formas sobrepostas no Power BI gera pop-ups e interrupções visuais ao clicar nos botões ou alternar páginas, o que prejudica a experiência do usuário. Por isso, toda a estética (fundo roxo, transparências e arredondamentos) foi feita diretamente nas propriedades de cada gráfico.
-* **Foco na Clareza**: O trabalho prioriza a limpeza visual. Gráficos que anteriormente escondiam informações foram substituídos por visuais mais claros (como a tabela de lucro por segmento), garantindo que todos os dados sejam legíveis.
+* **Hardware e Estabilidade**: O desenvolvimento foi realizado em uma máquina com hardware limitado, enfrentando lentidões e congelamentos constantes do Power BI. Para manter o arquivo leve e o sistema funcional, evitei o uso de qualquer imagem de fundo ou formas externas pesadas, trabalhando apenas com recursos nativos.
+* **Limitação de Acesso (E-mail Corporativo)**: Devido à exigência do Power BI por um e-mail corporativo para acesso a recursos de publicação e design avançado (o qual não possuo, utilizando conta pessoal), o projeto foi focado na execução local de alta qualidade.
+* **Foco na Produtividade vs. Pop-ups**: Optei por remover todas as camadas de formas e layouts de capa sugeridos no curso original. Na prática, esses elementos sobrepostos geravam pop-ups incessantes a cada clique, o que desconcentrava e atrasava significativamente o fluxo de trabalho. A solução foi aplicar toda a estética (fundo e arredondamentos) diretamente nos gráficos, eliminando interrupções e garantindo um ambiente de desenvolvimento mais ágil.
+* **Clareza dos Dados**: Substituí visuais saturados por tabelas e gráficos limpos, garantindo que a informação seja o centro do projeto, sem elementos decorativos que prejudiquem a performance.
 
 ---
 
