@@ -25,7 +25,7 @@ Este repositório contém o projeto de **Reformulação Visual e Otimização** 
 
 Este projeto reflete um processo de **resiliência e superação de barreiras técnicas**:
 
-* **Hardware e Estabilidade**: O desenvolvimento foi realizado em uma máquina com hardware limitado, enfrentando lentidões e congelamentos constantes do Power BI. Para manter o arquivo leve e o sistema funcional, evitei o uso de qualquer imagem de fundo ou formas externas pesadas, trabalhando apenas com recursos nativos.
+* **Hardware e Estabilidade**: O desenvolvimento foi realizado em uma máquina emprestada com hardware limitado, enfrentando lentidões e congelamentos constantes do Power BI. Para manter o arquivo leve e o sistema funcional, evitei o uso de qualquer imagem de fundo ou formas externas pesadas, trabalhando apenas com recursos nativos.
 * **Limitação de Acesso (E-mail Corporativo)**: Devido à exigência do Power BI por um e-mail corporativo para acesso a recursos de publicação e design avançado (o qual não possuo, utilizando conta pessoal), o projeto foi focado na execução local de alta qualidade.
 * **Foco na Produtividade vs. Pop-ups**: Optei por remover todas as camadas de formas e layouts de capa sugeridos no curso original. Na prática, esses elementos sobrepostos geravam pop-ups incessantes a cada clique, o que desconcentrava e atrasava significativamente o fluxo de trabalho. A solução foi aplicar toda a estética (fundo e arredondamentos) diretamente nos gráficos, eliminando interrupções e garantindo um ambiente de desenvolvimento mais ágil.
 * **Clareza dos Dados**: Substituí visuais saturados por tabelas e gráficos limpos, garantindo que a informação seja o centro do projeto, sem elementos decorativos que prejudiquem a performance.
